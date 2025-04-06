@@ -1,4 +1,9 @@
 p {
   font-family: sans-serif
   align-content: center;
+  color: black;
+}
+
+html {
+  background: white;
 }
