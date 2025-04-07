@@ -4,6 +4,12 @@ p {
   color: white;
 }
 
+h1 {
+   font-family: sans-serif
+  align-content: center;
+  color: white;
+}
+
 html {
   background: black;
 }
