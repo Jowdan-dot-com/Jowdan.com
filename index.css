@@ -9,6 +9,11 @@ a {
   align-content: center;
   color: red; 
 }
+.blog {
+   font-family: sans-serif
+  align-content: center;
+  color: white;
+}
 h1 {
    font-family: sans-serif
   align-content: center;
