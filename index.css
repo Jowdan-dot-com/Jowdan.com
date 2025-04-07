@@ -4,6 +4,11 @@ p {
   color: white;
 }
 
+a {
+ font-family: sans-serif
+  align-content: center;
+  color: red; 
+}
 h1 {
    font-family: sans-serif
   align-content: center;
