@@ -1,0 +1,14 @@
+<! DOCTYPE HTML>
+<html>
+<body>
+<h1>Blog Post Test</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</br>
+Consectetur adipiscing elit quisque faucibus ex sapien vitae.</br>
+Ex sapien vitae pellentesque sem placerat in id.</br>
+Placerat in id cursus mi pretium tellus duis.</br>
+Pretium tellus duis convallis tempus leo eu aenean.</p>
+</body>
+<head>
+<link rel="stylesheet" href="index.css">
+</head>
+</html>
